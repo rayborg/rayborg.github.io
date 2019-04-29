@@ -2,7 +2,7 @@
 title: Research profile
 ---
 
-![Me at one of Sanborn's sculptures](/me.jpg "Me at one of Sanborn's sculptures")
+![Me at one of Sanborn's sculptures](/me.JPG "Me at one of Sanborn's sculptures")
 
 ## If you arrived here _intentionally_, then you probably know what you are doing. Get to it.
 Text here
