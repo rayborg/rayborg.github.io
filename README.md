@@ -3,6 +3,7 @@ If you arrived here _intentionally_, then you probably know what you are doing. 
 
 ### Current projects
 List of my projects:
-* Industrial control System (ICS) forensics
+* Industrial control system (ICS) device forensics
 * Anomaly detection for distribution systems
-* ICS network forensics
+
+[Industrial control system (ICS) device forensics](/ICSF.md "Industrial control system device forensics")
